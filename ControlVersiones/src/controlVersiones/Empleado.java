@@ -4,7 +4,7 @@ public class Empleado {
 	private String nombre;
 	private String apellidos;
 	private double salario; 
-
+// ESto es para crear un conflicto
 
 public Empleado(String nombre, String apellido, double salario) {
 	this.nombre = nombre;
